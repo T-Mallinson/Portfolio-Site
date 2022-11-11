@@ -26,7 +26,8 @@ body {
 	font-size: var(--body-font-size);
 	line-height: 1.6;
 	color: var(--dark-grey);
-	margin: 0 auto
+	margin: 5px auto;
+	padding: 10px;
 }
 
 h1 {
